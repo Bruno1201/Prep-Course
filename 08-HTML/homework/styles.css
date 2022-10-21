@@ -1,0 +1,31 @@
+h1{
+    color: darkred;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: darkblue;
+    padding: 50px;
+    border: 5px solid orangered;
+    text-align: center;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+body{
+    background-image: url("https://s3.amazonaws.com/static.om.anigamy.net/static.selecciones.com.ar/App/Article/12-consejos-para-saber-que-pedir-en-un-restaurante-2636-mainImage-0.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.divClass{
+    text-align: center;
+}
